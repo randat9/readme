@@ -11,7 +11,7 @@ The project has the objective of learning rl, the algorithm will be based on dat
 1.Clone the repository or download both files.
 
 2.Please download and install 
-'pip install -r requrments.txt'
+`pip install -r requrments.txt`
 
 3.Run the scripts
 
