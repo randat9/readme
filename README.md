@@ -1,5 +1,3 @@
-# readme
-
 ## Project sky trading
 
 Project who we will creating in our intership:
@@ -22,7 +20,7 @@ The project who we will created:
 
 * [IQFeed](#IQFeed)
 
-* [Playing cards](#Playing cards)
+* [Playing cards](#Playingcards)
 
 # IQFeed
 
