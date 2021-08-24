@@ -11,7 +11,7 @@ The project has the objective of learning rl, the algorithm will be based on dat
 1.Clone the repository or download both files.
 
 2.Please download and install 
-"pip install -r requrments.txt'
+'pip install -r requrments.txt'
 
 3.Run the scripts
 
@@ -31,5 +31,5 @@ The project who we will created:
 [Playing Cards](https://colab.research.google.com/drive/1h1RjOziH5jb5OuE33Pj00O53FxZ8KCxF?authuser=1#scrollTo=CGAVq499iQzZ) is the project where we use python to solve game card problem to find a good results, is intended to be a card game between two players, the player with the most points wins
 
 ## Project status
-
+TODO
 
