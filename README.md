@@ -20,17 +20,19 @@ The project who we will created:
 
 * [IQFeed](#IQFeed)
 
-* [Playing cards](#Playingcards)
+* [Playing cards](#Playing-cards)
 
 # IQFeed
 
-Program who download data from DTN IQFeed Market Data application, [@eericon]https://github.com/skygate/sky-trading/tree/develop/iqfeed_downloader
+Program who download data from DTN IQFeed Market Data application, IQFeed [@eericon]
+(https://github.com/skygate/sky-trading/tree/develop/iqfeed_downloader)
 
 # Playing cards
 
 Project where we use python to solve game card problem to find a good results, Project use a function RL
 
-Playing cards [@eericon]https://colab.research.google.com/drive/1h1RjOziH5jb5OuE33Pj00O53FxZ8KCxF?authuser=1#scrollTo=CGAVq499iQzZ
+Playing cards [@eericon]
+(https://colab.research.google.com/drive/1h1RjOziH5jb5OuE33Pj00O53FxZ8KCxF?authuser=1#scrollTo=CGAVq499iQzZ)
 
 
 # Project status
