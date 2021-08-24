@@ -24,14 +24,11 @@ The project who we will created:
 
 # IQFeed
 
-Program who download data from DTN IQFeed Market Data application, [IQFeed](https://github.com/skygate/sky-trading/tree/develop/iqfeed_downloader)
+[Program](https://github.com/skygate/sky-trading/tree/develop/iqfeed_downloader) who download data from DTN IQFeed Market Data application, 
 
 # Playing cards
 
-Project where we use python to solve game card problem to find a good results, Project use a function RL
-
-[Playing Cards](https://colab.research.google.com/drive/1h1RjOziH5jb5OuE33Pj00O53FxZ8KCxF?authuser=1#scrollTo=CGAVq499iQzZ)
-
+[Playing Cards](https://colab.research.google.com/drive/1h1RjOziH5jb5OuE33Pj00O53FxZ8KCxF?authuser=1#scrollTo=CGAVq499iQzZ) is the project where we use python to solve game card problem to find a good results, Project use a function RL
 
 # Project status
 
