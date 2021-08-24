@@ -28,7 +28,7 @@ The project who we will created:
 
 # Playing cards
 
-[Playing Cards](https://colab.research.google.com/drive/1h1RjOziH5jb5OuE33Pj00O53FxZ8KCxF?authuser=1#scrollTo=CGAVq499iQzZ) is the project where we use python to solve game card problem to find a good results, Project use a function RL
+[Playing Cards](https://colab.research.google.com/drive/1h1RjOziH5jb5OuE33Pj00O53FxZ8KCxF?authuser=1#scrollTo=CGAVq499iQzZ) is the project where we use python to solve game card problem to find a good results, is intended to be a card game between two players, the player with the most points wins
 
 # Project status
 
