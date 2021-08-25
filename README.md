@@ -1,22 +1,22 @@
 # Project sky trading
 
-#About
+# About
 
 The project has the objective of learning rl, the algorithm will be based on data from IQFeed, the main goal is to create an algorithm that the bot will buy a position and we sold it or open a position and the BOT sold it,
  all projects are closely related to the goal of creating an algorithm
 
 
-#Getting Started 
+# Getting Started 
 
 Getting Started - Reinforcement learning (RL):
 
----- => Tic-tac-toe - version of popular entry reinforcement learning problem, Contains tools for statistical comparation of training epochs/chance of winning versus the bot.
----- => Gokart - A car is on a one-dimensional track, positioned between two "mountains". The goal is to drive up the mountain on the right; however, the car's engine is not strong enough to scale the mountain in a single pass. Therefore, the only way to succeed is to drive back and forth to build up momentum. Here, the reward is greater if you spend less energy to reach the goal
----- => Karty - Playing Cards is the project where we use python to solve game card problem to find a good results, 
+ Tic-tac-toe - version of popular entry reinforcement learning problem, Contains tools for statistical comparation of training epochs/chance of winning versus the bot. 
+ Gokart - A car is on a one-dimensional track, positioned between two "mountains". The goal is to drive up the mountain on the right; however, the car's engine is not strong enough  to scale the mountain in a single pass. Therefore, the only way to succeed is to drive back and forth to build up momentum. Here, the reward is greater if you spend less energy to reach the goal
+ Karty - Playing Cards is the project where we use python to solve game card problem to find a good results, 
 is intended to be a card game between two players, the player with the most points wins
 
 
-#instalation 
+# Instalation 
 
 # IQFeed Downloader
 
@@ -59,7 +59,4 @@ You only have to feed it three things: host address, host port and ticker name. 
 Default port of IQFeed live data socket is **5009**.
 
 
-
-
-
-#Examples and running 
+# Examples and running 
