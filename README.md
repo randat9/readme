@@ -69,7 +69,7 @@ The first programs you can write
  [Gokart](https://gym.openai.com/envs/MountainCar-v0/#id1) - A car is on a one-dimensional track, positioned between two "mountains". The goal is to drive up the mountain on the right; however, the car's engine is not strong enough  to scale the mountain in a single pass. Therefore, the only way to succeed is to drive back and forth to build up momentum. Here, the reward is greater if you spend less energy to reach the goal no i tu tez colab
  
  Karty - Playing Cards is the project where we use python to solve game card problem to find a good results, 
-is intended to be a card game between two players, the player with the most points wins [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1h1RjOziH5jb5OuE33Pj00O53FxZ8KCxF?authuser=1#scrollTo=U5Sq79GmiQoZ]
+is intended to be a card game between two players, the player with the most points wins [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1h1RjOziH5jb5OuE33Pj00O53FxZ8KCxF?authuser=1#scrollTo=U5Sq79GmiQoZ)
 
 
 
