@@ -29,7 +29,7 @@ Python scripts created to use with DTN IQFeed Market Data application. Connect t
 
 
 
-<img src="https://user-images.githubusercontent.com/26166097/131101633-c91a859b-4d29-423b-89b4-fdd92a0162a2.png" width="250" height="250">
+<img src="https://user-images.githubusercontent.com/26166097/131101633-c91a859b-4d29-423b-89b4-fdd92a0162a2.png" width="400" height="400">
 
 
 
