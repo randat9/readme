@@ -27,9 +27,9 @@ Python scripts created to use with DTN IQFeed Market Data application. Connect t
 1. Clone the repository `git clone https://github.com/skygate/sky-trading` or download both files.
 2. Log into any IQFeed application and have it running in the background - make sure you've bought the data plan that contains desired ticker. 
 
-![image](https://user-images.githubusercontent.com/26166097/131078951-463583e1-2c28-4e0f-a3e4-60264fbecc0f.png | width=250px)
+![image | width = 250px](https://user-images.githubusercontent.com/26166097/131078951-463583e1-2c28-4e0f-a3e4-60264fbecc0f.png)
 
-![image](https://user-images.githubusercontent.com/26166097/131101633-c91a859b-4d29-423b-89b4-fdd92a0162a2.png width=250px)
+![image width = 250px](https://user-images.githubusercontent.com/26166097/131101633-c91a859b-4d29-423b-89b4-fdd92a0162a2.png)
 
 
 
