@@ -59,7 +59,7 @@ Default port of IQFeed live data socket is **5009**.
 
 
 
-##### Getting Started - Reinforcement learning (RL):
+#### Getting Started - Reinforcement learning (RL):
 
 if you want start learn please [read](https://en.wikipedia.org/wiki/Reinforcement_learning), this will help you understand material from RL 
 
