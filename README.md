@@ -14,6 +14,7 @@ The project has the objective of learning Reinforcement Learning, the algorithm 
 ##### Tools
 * Jenkins
 * Github
+* PyCharm
 
 ## Instalation 
 
