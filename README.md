@@ -1,5 +1,3 @@
-# Project sky trading
- 
  
 ## About
 
@@ -77,5 +75,6 @@ is intended to be a card game between two players, the player with the most poin
 
 ## Examples and running 
 
-A model of the whole project
+###### A model of the whole project
+
 ![image](https://user-images.githubusercontent.com/26166097/131041029-c1fb79bd-cca1-4b10-9d2e-1abc435007cc.png)
